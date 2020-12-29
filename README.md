@@ -22,7 +22,7 @@
 
 # Instructions to compile:
 ### ->Two python file is uploaded
-   ######     Main function python file
-   ######     Accessing python file
+   ######     * Main function python file
+   ######     * Accessing python file
 ### -> Download and save the main function file in location on the laptop or create a optional file location 
 ### -> Compile the accessing python file 
