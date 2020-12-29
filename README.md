@@ -6,7 +6,7 @@
   ##### 2. A new key-value pair can be added to the data store using the Create operation. The key is always a string -capped at 32chars. The value is always a JSON object -   capped at 16KB.
  #####  3. If Create is invoked for an existing key, an appropriate error must be returned.
  #####  4. A Read operation on a key can be performed by providing the key, and receiving the value in response, as a JSON object.
- ###### 5. A Delete operation can be performed by providing the key.
+ ##### 5. A Delete operation can be performed by providing the key.
  #####  6. Every key supports setting a Time-To-Live property when it is created. This propeny is optional. If provided, it will be evaluated as an integer defining the number of            seconds the key must be retained in the data store. Once the Time-To-Live for a key has expired, the key will no longer be available for Read or Delete operations.
 #####   7. Appropriate error responses must always be returned to a client if it us the data store in unexpected ways or breaches any limits.
 
@@ -20,10 +20,10 @@
 
 
 
-# Instructions to compile:
+## Instructions to compile:
 ### ->Two python file is uploaded
-   ######     * Main.py
-   ######     * Accessing.py
+   #####     1.Main.py
+   #####     2.Accessing.py
 ### -> Download and save the main python file and accessing python file in location on the laptop or create a optional file location 
 ### -> Compile the main program and accessing program
 ### -> Screenshot of the program is attached in pdf format for your reference
