@@ -25,5 +25,5 @@
    ######     * Main function python file
    ######     * Accessing python file
 ### -> Download and save the main function python file and accessing python file in location on the laptop or create a optional file location 
-### -> Compile the main function program and then compile the accessing file
-### Screenshot of the program is attached in pdf format for your reference
+### -> Compile the main function program and accessing program
+### -> Screenshot of the program is attached in pdf format for your reference
