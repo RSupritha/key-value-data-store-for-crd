@@ -21,8 +21,8 @@
 
 
 # Instructions to compile:
-### Two python file is uploaded
-    1.Main function python file
-    2.Accessing python file
-### Download and save the main function file in location on the laptop or create a optional file location 
-### Compile the accessing python file 
+### ->Two python file is uploaded
+   ###### 1.Main function python file
+   ###### 2.Accessing python file
+### -> Download and save the main function file in location on the laptop or create a optional file location 
+### -> Compile the accessing python file 
