@@ -23,7 +23,7 @@
 ## Instructions to compile:
 ### ->Two python file is uploaded
             1. Main.py
-            2. Accessing.py
+            2. CRD operation.py
 ### -> Download and save the main python file and accessing python file in location on the laptop or create a optional file location 
-### -> Compile the main program and accessing program
+### -> Compile the main program and CRD operation program
 ### -> Screenshot of the program is attached in pdf format for your reference
