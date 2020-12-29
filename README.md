@@ -16,3 +16,13 @@
 ######   2. More than one client process cannot be allowed to use the same file as a data store at any  given time.
 ######   3. A client process is allowed to acc.s the data store using multiple threads, if it desires to.The data store must therefore be thread-safe.
 ######   4. The client will bear as little memory costs as possible to use this data store, while deriving maximum performance with respect to response times for accessing the data store.
+
+
+
+
+# Instructions to compile:
+### Two python file is uploaded
+    1.Main function python file
+    2.Accessing python file
+### Download and save the main function file in location on the laptop or create a optional file location 
+### Compile the accessing python file 
